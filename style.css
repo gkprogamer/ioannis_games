@@ -1,0 +1,33 @@
+ body {
+    font-family: sans-serif;
+}
+
+header a {
+border:2px dotted  rgba(143, 26, 26, 0.219) ;
+ 
+
+padding: 20px;
+margin:80px;
+background-color: rgba(228, 0, 0, 0.575);
+}
+header{margin:20px;}
+
+
+nav{
+margin:20px;
+padding:20px ;
+}
+
+nav a{
+border:2px dotted rgb(255, 1, 1);
+padding: 20px  ;
+margin:0px;
+background-color: black;
+}
+.legend_ioannis{
+ border:2px dotted rgb(255, 1, 1);
+padding: 20px  ;
+margin:0px;
+background-color: black; 
+color:rgb(172, 10, 10)  
+}
